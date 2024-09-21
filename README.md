@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohit
 - 👀 Code - Play - Sleep - Repeat
-- 💞️ NodeJS, Java, Python
+- 💞️ NodeJS, Java, Python, Golang
 - 📫 Reach me on [GMail](mailto:rohit.911.chauhan@gmail.com)
 
 <!---
